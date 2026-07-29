@@ -51,7 +51,3 @@ Each project folder contains the corresponding source notebook, project document
 **Organization:** Oasis Infobyte  
 **Track:** Data Science  
 **Program:** OIBSIP - Oasis Infobyte Internship Program
-
-**Organization:** Oasis Infobyte  
-**Track:** Data Science  
-**Program:** OIBSIP - Oasis Infobyte Internship Program
